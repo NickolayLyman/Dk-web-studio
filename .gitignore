@@ -1,6 +1,5 @@
 node_modules
 .vscode
-src
 debug.log
 .prettierrc.json
 package.json

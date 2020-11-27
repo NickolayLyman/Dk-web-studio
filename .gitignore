@@ -1,8 +1,5 @@
-node_modules
+node_modules/
 .vscode
 debug.log
-.prettierrc.json
-package.json
-gulpfile.js
 README.md
 
